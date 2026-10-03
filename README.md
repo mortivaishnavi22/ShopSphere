@@ -267,7 +267,8 @@ Add screenshots of the three Power BI report pages here.
 
 ### Performance Overview
 
-![Performance Overview](dashboard/screenshots/performance_overview.png)
+![Performance Overview](ShopSphere
+/customer analysis.png)
 
 ### Traffic & Acquisition
 
