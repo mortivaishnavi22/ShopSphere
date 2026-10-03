@@ -1,6 +1,3 @@
-# ShopSphere
-End-to-end e-commerce analytics project using Python, SQL, SQLite, and Power BI to explore customer behavior, sales performance, traffic acquisition, and purchase funnel conversion using synthetic data.
-
 # 🛒 ShopSphere – E-commerce Customer Behavior & Purchase Funnel Analysis
 
 ## 📌 Project Overview
@@ -173,38 +170,6 @@ These are analytical opportunities suggested by the simulated data, not verified
 
 ---
 
-## 📁 Project Structure
-
-```text
-ShopSphere-Ecommerce-Analysis/
-│
-├── data/
-│   ├── processed/
-│   │   └──               # Cleaned datasets and analysis outputs
-│   └── shopsphere.db     # SQLite database (if included)
-│
-├── src/
-│   ├── database.py       # Database creation and setup
-│   ├── generate_data.py  # Synthetic data generation
-│   └── eda.py            # Exploratory data analysis
-│
-├── sql/
-│   └──                  # SQL queries for business analysis
-│
-├── reports/
-│   └── sql_findings.md  # SQL analysis findings
-│
-├── dashboard/
-│   ├── ShopSphere.pbix  # Power BI dashboard
-│   └── screenshots/     # Dashboard screenshots
-│
-├── README.md
-└── .gitignore
-```
-
-*Adjust the structure to match the files and folders actually included in your repository.*
-
----
 
 ## 🚀 How to Run the Project
 
@@ -223,8 +188,7 @@ SQLite is used for database storage. Power BI Desktop is required to open and ex
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ShopSphere<img width="670" height="378" alt="performance overview" src="https://github.com/user-attachments/assets/be372303-35b2-4560-b407-8cf66c887c22" />
-.git
+git clone https://github.com/mortivaishnavi22/ShopSphere.git
 ```
 
 2. Navigate to the project directory:
@@ -267,15 +231,15 @@ Add screenshots of the three Power BI report pages here.
 
 ### Performance Overview
 
-![Performance Overview](main/performance_overview.png)
+![Performance Overview](dashboard/screenshots/performance_overview.png)
 
 ### Traffic & Acquisition
 
-![Traffic and Acquisition](main/traffic_and_acq.png)
+![Traffic and Acquisition](dashboard/screenshots/traffic_and_acq.png)
 
 ### Customer Analysis
 
-![Customer Analysis](main/customer_analysis.png)
+![Customer Analysis](dashboard/screenshots/customer_analysis.png)
 
 *Replace the image paths with your actual screenshot filenames. GitHub will display the images once they are uploaded to the repository.*
 
@@ -314,9 +278,9 @@ BE in Computer Science & Engineering
 
 **Areas of Interest:** Data Analytics | Business Intelligence | Power BI | SQL | Python
 
-**LinkedIn:** [Add your LinkedIn profile URL]
+**LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/mortivaishnavi/?isSelfProfile=true)
 
-**GitHub:** [Add your GitHub profile URL]
+**GitHub:** [My GitHub](https://github.com/mortivaishnavi22)  
 
 ---
 
