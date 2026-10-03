@@ -241,7 +241,7 @@ Add screenshots of the three Power BI report pages here.
 
 ![Customer Analysis](dashboards/screenshots/customer_analysis.png)
 
-*Replace the image paths with your actual screenshot filenames. GitHub will display the images once they are uploaded to the repository.*
+
 
 ---
 
