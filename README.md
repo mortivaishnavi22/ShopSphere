@@ -267,16 +267,15 @@ Add screenshots of the three Power BI report pages here.
 
 ### Performance Overview
 
-![Performance Overview](ShopSphere
-/customer analysis.png)
+![Performance Overview](main/performance_overview.png)
 
 ### Traffic & Acquisition
 
-![Traffic and Acquisition](dashboard/screenshots/traffic_acquisition.png)
+![Traffic and Acquisition](main/traffic_and_acq.png)
 
 ### Customer Analysis
 
-![Customer Analysis](dashboard/screenshots/customer_analysis.png)
+![Customer Analysis](main/customer_analysis.png)
 
 *Replace the image paths with your actual screenshot filenames. GitHub will display the images once they are uploaded to the repository.*
 
