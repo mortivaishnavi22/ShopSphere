@@ -231,15 +231,15 @@ Add screenshots of the three Power BI report pages here.
 
 ### Performance Overview
 
-![Performance Overview](dashboard/screenshots/performance_overview.png)
+![Performance Overview](dashboards/screenshots/performance_overview.png)
 
 ### Traffic & Acquisition
 
-![Traffic and Acquisition](dashboard/screenshots/traffic_and_acq.png)
+![Traffic and Acquisition](dashboards/screenshots/traffic_acquisition.png)
 
 ### Customer Analysis
 
-![Customer Analysis](dashboard/screenshots/customer_analysis.png)
+![Customer Analysis](dashboards/screenshots/customer_analysis.png)
 
 *Replace the image paths with your actual screenshot filenames. GitHub will display the images once they are uploaded to the repository.*
 
